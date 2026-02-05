@@ -114,7 +114,7 @@ const App: React.FC = () => {
   const currentPageContent = selectedPageId ? STATIC_PAGES[selectedPageId] : null;
 
   if (isLoading && products.length === 0) {
-    return <div className="min-h-screen flex items-center justify-center bg-white dark:bg-slate-950 text-slate-900 dark:text-white">Loading ElectroStream...</div>;
+    return <div className="min-h-screen flex items-center justify-center bg-white dark:bg-slate-950 text-slate-900 dark:text-white">Loading lavyaappliance...</div>;
   }
 
   const renderView = () => {

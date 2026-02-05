@@ -7,7 +7,7 @@ const testimonials = [
     id: 1,
     name: "Aarav S.",
     role: "Interior Designer",
-    text: "ElectroStream has completely transformed how I source appliances for my luxury projects. The variant options are unmatched.",
+    text: "lavyaappliance has completely transformed how I source appliances for my luxury projects. The variant options are unmatched.",
     rating: 5
   },
   {
@@ -32,7 +32,7 @@ const Testimonials: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl font-black text-slate-900 dark:text-white tracking-tight mb-4">Trusted by Professionals</h2>
-          <p className="text-slate-500 dark:text-slate-400 max-w-2xl mx-auto">See what architects, designers, and homeowners have to say about the ElectroStream experience.</p>
+          <p className="text-slate-500 dark:text-slate-400 max-w-2xl mx-auto">See what architects, designers, and homeowners have to say about the lavyaappliance experience.</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

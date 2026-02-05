@@ -854,17 +854,17 @@ export const STATIC_PAGES: Record<string, PageContent> = {
   about: {
     title: "About Our Firm",
     subtitle: "Pioneering Premium Electronics in Nepal since 2024",
-    content: "ElectroStream is more than just a retailer; we are a curator of the finest lifestyle technologies. Founded with a vision to bridge the gap between global innovation and local homes, we have established ourselves as the premier destination for high-end electronics. <br/><br/> Our showrooms are designed to be experiential hubs where customers can interact with the latest in AI-powered appliances, 8K visual entertainment, and smart home ecosystems. We partner directly with global giants like Samsung, Sony, LG, and Bosch to ensure authenticity and warranty protection."
+    content: "lavyaappliance is more than just a retailer; we are a curator of the finest lifestyle technologies. Founded with a vision to bridge the gap between global innovation and local homes, we have established ourselves as the premier destination for high-end electronics. <br/><br/> Our showrooms are designed to be experiential hubs where customers can interact with the latest in AI-powered appliances, 8K visual entertainment, and smart home ecosystems. We partner directly with global giants like Samsung, Sony, LG, and Bosch to ensure authenticity and warranty protection."
   },
   warranty: {
     title: "Warranty Policy",
     subtitle: "Comprehensive Protection for Your Investment",
-    content: "All products purchased from ElectroStream come with a standard manufacturer's warranty ranging from 1 to 10 years depending on the component (e.g., Compressor/Motor). <br/><br/> <strong>Standard Terms:</strong> <br/> - Labor free for 1 year. <br/> - Parts replacement subject to depreciation after 3 years. <br/> - Physical damage and power surge issues are not covered under standard warranty. <br/><br/> We also offer 'ElectroShield', our extended warranty program that adds 2 extra years of full coverage."
+    content: "All products purchased from lavyaappliance come with a standard manufacturer's warranty ranging from 1 to 10 years depending on the component (e.g., Compressor/Motor). <br/><br/> <strong>Standard Terms:</strong> <br/> - Labor free for 1 year. <br/> - Parts replacement subject to depreciation after 3 years. <br/> - Physical damage and power surge issues are not covered under standard warranty. <br/><br/> We also offer 'ElectroShield', our extended warranty program that adds 2 extra years of full coverage."
   },
   contact: {
     title: "Contact Us",
     subtitle: "We're here to help",
-    content: "<strong>Head Office:</strong><br/>ElectroStream Tower, Durbar Marg, Kathmandu<br/><br/><strong>Phone:</strong><br/>+977-1-4XXXXXX<br/><br/><strong>Email:</strong><br/>support@electrostream.com.np<br/><br/><strong>Opening Hours:</strong><br/>Sun-Fri: 10:00 AM - 7:00 PM"
+    content: "<strong>Head Office:</strong><br/>lavyaappliance Tower, Durbar Marg, Kathmandu<br/><br/><strong>Phone:</strong><br/>+977-1-4XXXXXX<br/><br/><strong>Email:</strong><br/>support@lavyaappliance.com.np<br/><br/><strong>Opening Hours:</strong><br/>Sun-Fri: 10:00 AM - 7:00 PM"
   },
   corporate: {
     title: "Corporate Sales",

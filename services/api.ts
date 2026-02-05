@@ -2,7 +2,7 @@
 import { Product, Category } from '../types';
 
 // Replace with your actual backend URL
-const API_BASE_URL = 'https://api.electrostream.dev/v1';
+const API_BASE_URL = 'https://api.lavyaappliance.dev/v1';
 
 export const ApiService = {
   // --- Products ---

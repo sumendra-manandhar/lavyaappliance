@@ -17,7 +17,7 @@ const GenericPage: React.FC<GenericPageProps> = ({ content }) => {
     >
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <span className="text-blue-600 font-black text-xs uppercase tracking-widest mb-3 block">ElectroStream Info</span>
+          <span className="text-blue-600 font-black text-xs uppercase tracking-widest mb-3 block">lavyaappliance Info</span>
           <h1 className="text-4xl md:text-5xl font-black text-slate-900 dark:text-white mb-4 tracking-tight">{content.title}</h1>
           {content.subtitle && <p className="text-xl text-slate-500 dark:text-slate-400 font-medium">{content.subtitle}</p>}
         </div>

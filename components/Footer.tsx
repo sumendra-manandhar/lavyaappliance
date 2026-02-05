@@ -14,7 +14,7 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
           <div className="col-span-1 md:col-span-1 space-y-6">
             <div className="flex items-center cursor-pointer" onClick={() => onNavigate('home')}>
               <div className="bg-blue-600 p-2 rounded-lg text-white font-black text-xl mr-3">ES</div>
-              <span className="text-2xl font-black tracking-tight text-white">ELECTROSTREAM</span>
+              <span className="text-2xl font-black tracking-tight text-white">lavyaappliance</span>
             </div>
             <p className="text-sm leading-relaxed">
               Nepal's leading premium electronics distributor. We bridge the gap between global technology and local homes since 2024.
@@ -58,7 +58,7 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
         </div>
 
         <div className="pt-8 border-t border-slate-900 flex flex-col md:flex-row justify-between items-center text-xs space-y-4 md:space-y-0 uppercase tracking-widest font-bold">
-          <p>© 2026 ElectroStream. Custom Developed with Next.js & Tailwind CSS.</p>
+          <p>© 2026 lavyaappliance. Custom Developed with Next.js & Tailwind CSS.</p>
           <div className="flex space-x-6">
             <button onClick={() => onNavigate('admin')} className="hover:text-blue-500 text-slate-700">Admin Login</button>
             <button onClick={() => onNavigate('page', 'privacy')} className="hover:text-white">Privacy</button>
